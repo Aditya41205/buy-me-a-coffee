@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # buy-me-a-coffee
 Created a defi daap to buy coffee and write a memo using ethereum
 =======
