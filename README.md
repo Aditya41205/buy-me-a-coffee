@@ -16,3 +16,8 @@ npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/deploy.js
 ```
 >>>>>>> 456ef67 (initial commit)
+
+
+Made with help of solidity,Hardhat
+
+RPC url from Alchemy
