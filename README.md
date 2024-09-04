@@ -1,5 +1,5 @@
 
-# buy-me-a-coffee
+# Buy-me-a-coffee
 Created a defi daap to buy coffee and write a memo using ethereum
 =======
 # Sample Hardhat Project
